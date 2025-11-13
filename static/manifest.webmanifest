@@ -1,10 +1,10 @@
 {
-  "name": "Kutt",
-  "short_name": "Kutt",
-  "theme_color": "#f3f3f3",
-  "background_color": "#f3f3f3",
+  "name": "Silqu",
+  "short_name": "Silqu",
+  "theme_color": "#142d39",
+  "background_color": "#142d39",
   "display": "standalone",
-  "description": "Kutt.it is a free and open source URL shortener with custom domains and stats.",
+  "description": "Silqu is a modern URL shortener with support for custom domains.",
   "Scope": "/",
   "start_url": "/",
   "icons": [
