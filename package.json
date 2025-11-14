@@ -67,5 +67,8 @@
     "@types/nodemailer": "6.4.6",
     "@types/pg": "8.11.10",
     "redoc": "2.2.0"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
